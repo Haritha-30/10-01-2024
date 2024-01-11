@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: rebeccapurple;
+    background-color: rgba(23, 206, 84, 0.797);
     color: white;
     display: flex;
     align-items: center;
@@ -72,7 +72,7 @@ body {
 .generate {
     background-color: #ecb602;
     border: none;
-    color: rebeccapurple;
+    color: rgb(33, 201, 198);
     cursor: pointer;
     display: block;
     font-size: 1.5rem;
